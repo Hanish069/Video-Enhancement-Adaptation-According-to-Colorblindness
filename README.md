@@ -9,7 +9,7 @@ The "Color Accessibility Video Enhancement" project is a pioneering endeavor aim
 - Output video clip.
 - ![Untitled video - Made with Clipchamp (1)](https://github.com/Hanish069/Video-Enhancement-Adaptation-According-to-Colorblindness/assets/107493886/6c6b0500-bd45-402f-b182-cf238aa417d1)
 
-- As you can the color of the Lamborghini has changed from red to pink. This implies that the red-green color blindness(protanopia) doesn't effect the viewers perception.
+- As you can see the color of the Lamborghini has changed from red to pink. This implies that the red-green color blindness(protanopia) doesn't effect the viewers perception.
   
 - This project can counter three major types of color blindness:
    1. Protopnopia.
@@ -35,7 +35,7 @@ The "Color Accessibility Video Enhancement" project is a pioneering endeavor aim
 2. Install required Python libraries:
 
    ```bash
-   pip install opencv-python ffpyplayer pytube
+   pip install requirements.txt
 
 3. Run the Project.py script:
 
