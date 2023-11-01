@@ -5,9 +5,9 @@ The "Color Accessibility Video Enhancement" project is a pioneering endeavor aim
 ## Features
 
 - This is the orginal video clip.
- ![Untitled video - Made with Clipchamp](https://github.com/Hanish069/Video-Enhancement-Adaptation-According-to-Colorblindness/assets/107493886/86949457-ff55-47c4-bbed-269512989dc2)
+- ![Untitled video - Made with Clipchamp](https://github.com/Hanish069/Video-Enhancement-Adaptation-According-to-Colorblindness/assets/107493886/86949457-ff55-47c4-bbed-269512989dc2)
 - Output video clip.
- ![Untitled video - Made with Clipchamp (1)](https://github.com/Hanish069/Video-Enhancement-Adaptation-According-to-Colorblindness/assets/107493886/6c6b0500-bd45-402f-b182-cf238aa417d1)
+- ![Untitled video - Made with Clipchamp (1)](https://github.com/Hanish069/Video-Enhancement-Adaptation-According-to-Colorblindness/assets/107493886/6c6b0500-bd45-402f-b182-cf238aa417d1)
 
 - As you can the color of the Lamborghini has changed from red to pink. This implies that the red-green color blindness(protanopia) doesn't effect the viewers perception.
   
