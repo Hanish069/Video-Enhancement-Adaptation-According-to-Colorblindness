@@ -30,7 +30,7 @@ The "Video Enhancement: Adaptation According to Colorblindness" project is a pio
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/colored-ascii-video.git
+   git clone https://github.com/hanish069/Video-Enhancement-Adaptation-According-to-Colorblindness.git
 
 2. Install required Python libraries:
 
