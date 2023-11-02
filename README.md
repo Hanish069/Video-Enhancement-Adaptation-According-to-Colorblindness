@@ -1,6 +1,6 @@
 # Video-Enhancement-Adaptation-According-to-Colorblindness
 
-The "Color Accessibility Video Enhancement" project is a pioneering endeavor aimed at revolutionizing the digital media landscape by making video content more inclusive and accessible to individuals with color vision deficiencies. Colorblindness is a common visual impairment that affects millions of people worldwide, making it challenging for them to fully appreciate visual content in its intended form. This project seeks to address this issue by developing cutting-edge technologies to adapt video content in real-time, transforming colors that are not visible to colorblind viewers into colors they can perceive. This project uses popular Python libraries such as OpenCV, ffpyplayer, and Pytube to achieve these functionalities.
+The "Video Enhancement: Adaptation According to Colorblindness" project is a pioneering endeavor aimed at revolutionizing the digital media landscape by making video content more inclusive and accessible to individuals with color vision deficiencies. Colorblindness is a common visual impairment that affects millions of people worldwide, making it challenging for them to fully appreciate visual content in its intended form. This project seeks to address this issue by developing cutting-edge technologies to adapt video content in real-time, transforming colors that are not visible to colorblind viewers into colors they can perceive. This project uses popular Python libraries such as OpenCV, ffpyplayer, and Pytube to achieve these functionalities.
 
 ## Features
 
